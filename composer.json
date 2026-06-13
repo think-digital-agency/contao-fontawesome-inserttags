@@ -1,9 +1,9 @@
 {
-    "name": "think-digital-agency/contao-font-awesome-insert-tags",
+    "name": "think-digital-agency/contao-fontawesome-inserttags",
     "type": "contao-bundle",
     "description": "FontAwesome insert tags for Contao 5 — use {{fas::...}}, {{far::...}}, {{fab::...}} anywhere in your content.",
     "keywords": ["contao", "contao-bundle", "fontawesome", "font-awesome", "insert-tag", "icons"],
-    "homepage": "https://github.com/think-digital-agency/contao-font-awesome-insert-tags",
+    "homepage": "https://github.com/think-digital-agency/contao-fontawesome-inserttags",
     "license": "LGPL-3.0-or-later",
     "authors": [
         {
