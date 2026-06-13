@@ -1,0 +1,15 @@
+en:
+    title: Contao FontAwesome Insert Tags
+    description: >
+        Use FontAwesome icons anywhere in Contao 5 via insert tags – in text fields, headlines, navigation labels, HTML modules, RSCE templates and anywhere else Contao processes insert tags.
+
+        Simply type {{fas::rocket}}, {{far::circle-check}} or {{fab::github}} into any field – done. Optional modifier parameters allow animations and size variants directly in the tag: {{fas::spinner::spin::2x}}. All four FontAwesome styles are supported: Solid, Regular, Brands and the generic fa tag for v4 compatibility. Input is validated via regex – no XSS attack surface.
+    keywords:
+        - fontawesome
+        - font awesome
+        - icons
+        - insert tag
+        - svg icons
+    support:
+        issues: https://github.com/think-digital-agency/contao-fontawesome-inserttags/issues
+        docs: https://github.com/think-digital-agency/contao-fontawesome-inserttags#readme

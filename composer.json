@@ -21,6 +21,7 @@
         }
     },
     "extra": {
-        "contao-manager-plugin": "ThinkDigital\\ContaoFontAwesomeInsertTags\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "ThinkDigital\\ContaoFontAwesomeInsertTags\\ContaoManager\\Plugin",
+        "logo": "docs/app-icon.png"
     }
 }
