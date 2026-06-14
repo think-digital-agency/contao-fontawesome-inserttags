@@ -1,8 +1,8 @@
 {
     "name": "think-digital-agency/contao-fontawesome-inserttags",
     "type": "contao-bundle",
-    "description": "FontAwesome insert tags for Contao 5 — use {{fas::...}}, {{far::...}}, {{fab::...}} anywhere in your content.",
-    "keywords": ["contao", "contao-bundle", "fontawesome", "font-awesome", "insert-tag", "icons"],
+    "description": "FontAwesome 6 insert tags for Contao 5 — use {{fas::rocket}}, {{far::circle-check}} or {{fab::github}} in any field, with optional modifier classes like spin or 2x.",
+    "keywords": ["contao", "contao-bundle", "contao-extension", "fontawesome", "fontawesome 6", "font-awesome", "icons", "insert-tag", "inserttag", "svg icons", "fa", "icon"],
     "homepage": "https://github.com/think-digital-agency/contao-fontawesome-inserttags",
     "license": "LGPL-3.0-or-later",
     "authors": [
